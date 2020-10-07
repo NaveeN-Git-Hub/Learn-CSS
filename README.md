@@ -3,11 +3,11 @@ Let's beautify text and colors by learning CSS
 
 ...
 
-HTML files kept under /css_cheat_sheet
+HTML files kept under /learn_css
 
-CSS files kept under /css_cheat_sheet/css
+CSS files kept under /learn_css
 
-images kept under css_cheat_sheet/images
+images kept under learn_css/images
 
 ...
 
